@@ -32,10 +32,10 @@ I leverage my expertise in problem-solving skills and technologies,to bring solu
 
 
 <a href="https://github.com/irungumaina/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=irungumaina&layout=compact&show_icons=true&theme=monokai" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=i-maina&layout=compact&show_icons=true&theme=monokai" />
 </a>
 <a href="https://github.com/irungumaina/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irungumaina&layout=compact&langs_count=8&card_width=400&show_icons=true&theme=monokai" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-maina&layout=compact&langs_count=8&card_width=400&show_icons=true&theme=monokai" />
 </a>
 <!--
 **irungumaina/irungumaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
