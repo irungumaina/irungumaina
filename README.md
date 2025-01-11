@@ -6,9 +6,9 @@ I leverage my expertise in problem-solving skills and technologies,to bring solu
 - 🔭 I’m currently working with Python, Django, JavaScript, React, AI ...
 - 🌱 I’m currently Interested in AI
 - 🌱 I have preciously worked with PHP, Laravel, WordPress, Vue, ....
-- 📝 I regularly write articles on [https://imaina.com/](https://imaina.com/)
+- 📝 I regularly write articles on [imaina.com](https://imaina.com/)
 
-- 📄 Know about my experiences [https://imaina.com/](https://imaina.com/)
+- 📄 Know about my experiences [imaina.com](https://imaina.com/)
 
 
 
