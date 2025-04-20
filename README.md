@@ -4,7 +4,7 @@ A Sotware Engineer with years of experience crafting creative solutions to a var
 I leverage my expertise in problem-solving skills and technologies,to bring solutions to your needs.
 
 - 🔭 I’m currently working with Python, PHP, Laravel, Wordpress, JavaScript, React, AI ...
-- 🌱 I’m currently Interested in Web developments, AI Applications & Integrations
+- 🌱 I’m currently Interested in Web developments, Cloud solutions and AI Applications & Integrations.
 - 🌱 I have preciously worked with Python, Django, ....
 - 📝 I regularly write articles on [imaina.com](https://imaina.com/)
 
